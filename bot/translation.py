@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {first}!!</b>
+    START_TEXT = """<b>Hey {}!!</b>
 
 <b>ഞാൻ @hdmovies8114 എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
 എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല</b>"""    
